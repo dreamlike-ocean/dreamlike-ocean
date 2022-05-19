@@ -8,16 +8,25 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlike-ocean&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlike-ocean&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
+#### 我使用的语言
+<a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"></a>
+<a href="https://kotlinlang.org/" target="_blank"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"></a>
+<a href="https://openjdk.java.net/" target="_blank"><img alt="java" src="https://img.shields.io/badge/java-000000?style=flat-square&logo=java&logoColor=white"></a>
+<a href="https://go.dev/" target="_blank"><img alt="go" src="https://img.shields.io/badge/go-000000?style=flat-square&logo=go&logoColor=white"></a>
+
+
 #### 我的仓库
 <a href="https://github.com/dreamlike-ocean/IM">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=IM&theme=buefy" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=IM&theme=buefy" /></a>
+
 <a href="https://github.com/dreamlike-ocean/oceanet">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=oceanet&theme=buefy" />
-</a>
+</a> 
+
 <a href="https://github.com/dreamlike-ocean/drone_backend">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=drone_backend&theme=buefy" />
 </a>
+
 <a href="https://github.com/dreamlike-ocean/loom-spring">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=loom-spring&theme=buefy" />
 </a>
