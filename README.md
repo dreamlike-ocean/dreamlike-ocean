@@ -18,6 +18,9 @@
 <a href="https://github.com/dreamlike-ocean/drone_backend">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=drone_backend&theme=buefy" />
 </a>
+<a href="https://github.com/dreamlike-ocean/loom-spring">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=loom-spring&theme=buefy" />
+</a>
 
 #### 目前工作重点仓库
 <a href="https://github.com/dreamlike-ocean/backend_qingyou">
