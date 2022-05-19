@@ -1,18 +1,25 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dreamlike-ocean&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+**关于我：**
+* dreamlike /Bilibili：[dreamlike - Bilibili](https://space.bilibili.com/8227104)
+* dreamlike / e-mail : <a href= "mailto:dreamlike.vertx@gmail.com"> Send Email </a>
+* 来自南京的响应式开发者，致力于宣传和研究netty/vertx的响应式生态
 
-<!--
-**dreamlike-ocean/dreamlike-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlike-ocean&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlike-ocean&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
-Here are some ideas to get you started:
+#### 我的仓库
+<a href="https://github.com/dreamlike-ocean/IM">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=IM&theme=buefy" />
+</a>
+<a href="https://github.com/dreamlike-ocean/oceanet">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=oceanet&theme=buefy" />
+</a>
+<a href="https://github.com/dreamlike-ocean/drone_backend">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=drone_backend&theme=buefy" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 目前工作重点仓库
+<a href="https://github.com/dreamlike-ocean/backend_qingyou">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=backend_qingyou&theme=buefy" />
+</a>
