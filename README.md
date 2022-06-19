@@ -21,6 +21,5 @@
 |<a href="https://github.com/dreamlike-ocean/drone_backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=drone_backend&theme=buefy&hide_border=true" /></a>| <a href="https://github.com/dreamlike-ocean/loom-spring"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=loom-spring&theme=buefy&hide_border=true" /></a>|
 
 #### 目前工作重点仓库
-<a href="https://github.com/dreamlike-ocean/backend_qingyou">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=backend_qingyou&theme=buefy" />
-</a>
+| <a href="https://github.com/dreamlike-ocean/backend_qingyou"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=backend_qingyou&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/dreamlike-ocean/raft-kt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=raft-kv&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
