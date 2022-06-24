@@ -11,7 +11,7 @@
 #### 我使用的语言
 <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"></a>
 <a href="https://kotlinlang.org/" target="_blank"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"></a>
-<a href="https://openjdk.java.net/" target="_blank"><img alt="java" src="https://img.shields.io/badge/java-000000?style=flat-square&logo=java&logoColor=white"></a>
+<a href="https://openjdk.org/" target="_blank"><img alt="java" src="https://img.shields.io/badge/java-000000?style=flat-square&logo=java&logoColor=white"></a>
 <a href="https://go.dev/" target="_blank"><img alt="go" src="https://img.shields.io/badge/go-000000?style=flat-square&logo=go&logoColor=white"></a>
 
 
