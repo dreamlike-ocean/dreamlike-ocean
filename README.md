@@ -4,13 +4,13 @@
 * dreamlike /Bilibili：[dreamlike - Bilibili](https://space.bilibili.com/8227104)
 * dreamlike / e-mail : <a href= "mailto:dreamlike.vertx@gmail.com"> Send Email </a>
 * resume  : <a href="https://htmlpreview.github.io/?https://github.com/dreamlike-ocean/resume/blob/master/resume.html">或许你想看看我的简历？</a>
-* 来自南京的响应式开发者，致力于宣传和研究netty/vertx的响应式生态
+* 来自南京的响应式开发者，致力于宣传和研究netty/vertx的响应式生态，努力探索技术的边界
 * 头像是<a href="https://kamitsubaki.jp/artist/isekaijoucho/ ">ヰ世界情緒</a>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlike-ocean&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlike-ocean&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### 我使用的语言
+#### 我使用的语言（按喜爱程度排序）
 <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"></a>
 <a href="https://kotlinlang.org/" target="_blank"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"></a>
 <a href="https://openjdk.org/" target="_blank"><img alt="java" src="https://img.shields.io/badge/java-000000?style=flat-square&logo=java&logoColor=white"></a>
