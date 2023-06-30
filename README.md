@@ -5,10 +5,10 @@
 * dreamlike / e-mail : <a href= "mailto:dreamlike.vertx@gmail.com"> Send Email</a>
 * Twitter : <a href="https://mobile.twitter.com/dreamli60679407">dreamlike-ocean</a>
 * resume  : <a href="https://htmlpreview.github.io/?https://github.com/dreamlike-ocean/resume/blob/master/resume.html">或许你想看看我的简历？</a>
-* 来自上海的响应式开发者，致力于宣传和研究netty/vertx的响应式生态，努力探索技术的边界。
+* 来自上海的响应式开发者，偏向IO侧研究较多，努力探索技术的边界。
 * 头像是<a href="https://kamitsubaki.jp/artist/isekaijoucho/ ">ヰ世界情緒</a>
 * 目前在Bytedance-Lark Business Applications写写CRUD混口饭吃，bytedancer可以搜索Vert.x词条找到贡献人来找到我
-* 正在学习 **Rust**/**io_uring**/**LSM**/**Raft**
+* 正在学习 **C++**/**kotlin symbol processor**/**io_uring**/**LSM**/**Raft**
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlike-ocean&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlike-ocean&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
@@ -23,9 +23,9 @@
 #### 我的仓库
 | <a href="https://github.com/dreamlike-ocean/PanamaUring"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=PanamaUring&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/dreamlike-ocean/oceanet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=oceanet&theme=buefy&hide_border=true" /></a>
 | ------------- | ------------- |
-<a href="https://github.com/dreamlike-ocean/UnsafeVirtualThread"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=UnsafeVirtualThread&theme=buefy&hide_border=true" /></a> |  <a href="https://github.com/dreamlike-ocean/ipc4j"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=ipc4j&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/dreamlike-ocean/UnsafeVirtualThread"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=UnsafeVirtualThread&theme=buefy&hide_border=true" /></a> |  <a href="https://github.com/dreamlike-ocean/raft-kt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=raft-kt&theme=buefy&hide_border=true" /></a>
 
 #### 目前工作重点仓库
-| <a href="https://github.com/dreamlike-ocean/backend_qingyou"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=backend_qingyou&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/dreamlike-ocean/PanamaUring"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=PanamaUring&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dreamlike-ocean/backend_qingyou"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=backend_qingyou&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/dreamlike-ocean/vertx-extension"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=vertx-extension&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-这里应该还有一个Raft-kt的。。。等我毕业丢上来
+
