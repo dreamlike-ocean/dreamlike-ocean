@@ -18,6 +18,7 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"></a>
 <a href="https://kotlinlang.org/" target="_blank"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"></a>
 
+kotlin真是垃圾语言模式匹配不如Java 垃圾工具链 升级jdk就无法编译
 
 #### 我的一些有趣仓库
 | <a href="https://github.com/dreamlike-ocean/PanamaUring"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=PanamaUring&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/dreamlike-ocean/StableValue"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=StableValue&theme=buefy&hide_border=true" /></a>
