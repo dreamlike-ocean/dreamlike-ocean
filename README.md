@@ -7,7 +7,7 @@
 * resume  : <a href="https://htmlpreview.github.io/?https://github.com/dreamlike-ocean/resume/blob/master/resume.html">或许你想看看我的简历？</a>
 * 来自上海的响应式开发者，偏向IO侧研究较多，努力探索技术的边界。
 * 头像是<a href="https://kamitsubaki.jp/artist/isekaijoucho/ ">ヰ世界情緒</a>
-* 目前在字节CIS写写CRUD混口饭吃，bytedancer可以搜索<del>Vert.x词条找到贡献人来找到我(词条被字节治理黑话治理掉了)</del>dreamlike的技术随想这个文档吧
+* 前字节跳动Java工程师，目前是无业游民，还是不上班爽
 * 正在学习 **io_uring**/**LSM**/**Raft**/**Netty**/
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlike-ocean&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlike-ocean&layout=compact&theme=buefy&hide_border=true" /> |
