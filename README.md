@@ -3,7 +3,7 @@
 **关于我：**
 * dreamlike /Bilibili：[dreamlike - Bilibili](https://space.bilibili.com/8227104)
 * dreamlike / e-mail : <a href= "mailto:dreamlike.vertx@gmail.com"> Send Email</a>
-* Twitter : <a href="https://mobile.twitter.com/dreamli60679407">dreamlike-ocean</a>
+* Twitter : <a href="https://mobile.twitter.com/dreamli606794">dreamlike-ocean</a>
 * resume  : <a href="https://htmlpreview.github.io/?https://github.com/dreamlike-ocean/resume/blob/master/resume.html">或许你想看看我的简历？</a>
 * 来自上海的响应式开发者，偏向IO侧研究较多，努力探索技术的边界。
 * 头像是<a href="https://kamitsubaki.jp/artist/isekaijoucho/ ">ヰ世界情緒</a>
