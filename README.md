@@ -14,9 +14,9 @@
 | ------------- | ------------- |
 
 #### 我使用的语言（按喜爱程度排序）
-<a href="https://openjdk.org/" target="_blank"><img alt="java" src="https://img.shields.io/badge/java-000000?style=flat-square&logo=java&logoColor=white"></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"></a>
-<a href="https://kotlinlang.org/" target="_blank"><img alt="kotlin" src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"></a>
+<a href="https://openjdk.org/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"></a>
+<a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white"></a>
 
 kotlin真是垃圾语言模式匹配不如Java 垃圾工具链 升级jdk就无法编译
 
