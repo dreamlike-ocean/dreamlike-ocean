@@ -3,7 +3,7 @@
 **关于我：**
 * dreamlike /Bilibili：[dreamlike - Bilibili](https://space.bilibili.com/8227104)
 * dreamlike / e-mail : <a href= "mailto:dreamlike.vertx@gmail.com"> Send Email</a>
-* Twitter : <a href="https://mobile.twitter.com/dreamli606794">dreamlike-ocean</a>
+* X/Twitter : <a href="https://mobile.twitter.com/dreamli60679407">dreamlike-ocean</a>
 * resume  : <a href="https://htmlpreview.github.io/?https://github.com/dreamlike-ocean/resume/blob/master/resume.html">或许你想看看我的简历？</a>
 * 来自上海的响应式开发者，偏向IO侧研究较多，努力探索技术的边界。
 * 头像是<a href="https://kamitsubaki.jp/artist/isekaijoucho/ ">ヰ世界情緒</a>
@@ -18,7 +18,6 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"></a>
 <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white"></a>
 
-kotlin真是垃圾语言模式匹配不如Java 垃圾工具链 升级jdk就无法编译
 
 #### 我的一些有趣仓库
 | <a href="https://github.com/dreamlike-ocean/PanamaUring"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=PanamaUring&theme=buefy&hide_border=true" /></a> |<a href="https://github.com/dreamlike-ocean/StableValue"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dreamlike-ocean&repo=StableValue&theme=buefy&hide_border=true" /></a>
